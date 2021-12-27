@@ -1,5 +1,5 @@
 # C++ list
 learning C++: list  
 see [test.cpp](./test.cpp)  
-class List with template, that has interface like std::list, it is singly linked list    
+Class List with template. It has interface like std::list. It is singly linked list.   
 

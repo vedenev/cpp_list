@@ -1,2 +1,4 @@
-# cpp_list
-C++ list
+# C++ list
+learning C++: list  
+see [test.cpp](./test.cpp)  
+
